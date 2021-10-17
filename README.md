@@ -24,8 +24,8 @@ yarn add react-native-interactive-touchable
 
 ### Usage
 
-![Screenshot](./screenshots/scaleInteraction.gif)
-![Screenshot](./screenshots/progressInteraction.gif)
+![Screenshot](https://github.com/NushGhulyan/react-native-interactive-touchable/blob/master/screenshots/scaleInteraction.gif)
+![Screenshot](https://github.com/NushGhulyan/react-native-interactive-touchable/blob/master/screenshots/progressInteraction.gif)
 
 
 
